@@ -2,7 +2,9 @@ import urllib.request, json
 
 # Introduction:
 print("Welcome to currency converter.")
+
 amount = 100
+print("The amount in ILS is:", amount)
 
 # Calculate the currency with API:
 try:
