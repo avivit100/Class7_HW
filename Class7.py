@@ -1,7 +1,8 @@
 import urllib.request, json
 
 # Introduction:
-print("Welcome to currency converter.")
+name = "Avivit Hubara"
+print("Welcome -", name,  "- to currency converter.")
 
 amount = 100
 print("The amount in ILS is:", amount)
